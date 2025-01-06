@@ -1,6 +1,4 @@
 ## Olá! Eu sou a Chris Bade
-
-- 👋 Hoje trabalho com front-end
 - 👀 Estudando programação
 - 🌱 Pronouns: ela/dela
 <div>
