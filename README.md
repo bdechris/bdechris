@@ -5,6 +5,7 @@
 Hey! Sejam bem-vindos. Me chamo Stefane e sou uma Analista de Sistema em transição de carreira.
 
 Há três anos atuo como Analista de Sistema, onde aprimorei minhas habilidades em: resoluções de problemas devido a imprevistos, trabalho em equipe incluindo outros setores integrados, capacidade de adaptabilidade com mudanças de departamentos e colaboradores, e comprometimento com as entregas.
+Durante a minha jornada, descobri uma curiosidade em otimizar algumas atividade rotineiras, sou estudante de desenvolvimento Front-End com foco em criar interfaces modernas, responsivas e funcionais. Estou me dedicando ao aprendizado e aprimoramento das tecnologias HTML, CSS, JavaScript para desenvolver aplicações web que proporcionem uma boa experiência ao usuário.
 
 
 ### 🤖 Linguagens e Tecnologias
