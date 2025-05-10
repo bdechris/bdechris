@@ -39,3 +39,4 @@ Durante a minha jornada, descobri uma curiosidade em otimizar algumas atividade 
 <br/>
 <br/>
 
+<a href="https://app.rocketseat.com.br/me/stefane-cristini-06036"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=stefane-cristini-06036&type=card" width="280" alt="Stefane Badé's Rocket ID"/></a>
