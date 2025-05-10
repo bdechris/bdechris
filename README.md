@@ -6,8 +6,6 @@ Hey! Sejam bem-vindos. Me chamo Stefane e sou uma Analista de Sistema em transi�
 
 Há três anos atuo como Analista de Sistema, onde aprimorei minhas habilidades em: resoluções de problemas devido a imprevistos, trabalho em equipe incluindo outros setores integrados, capacidade de adaptabilidade com mudanças de departamentos e colaboradores, e comprometimento com as entregas.
 
- compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
-
 <p align="left">
     <a href="https://www.youtube.com/">
         <img 
